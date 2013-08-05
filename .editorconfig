@@ -27,10 +27,10 @@ indent_size = 2
 indent_style = tab
 indent_size = 2
 
-[test/**.php]
+[**.php]
 indent_style = space
 indent_size = 4
 
-[test/**.html]
+[**.html]
 indent_style = tab
 indent_size = 2
