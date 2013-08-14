@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * desc
+ *
+ * @author
+ * @copyright   (C) 2013. All rights reserved.
+ * @version     1.0
+ */
+
+/**
+ * desc
+ *
+ * @category
+ * @package
+ * @subpackage
+ * @since       1.0
+ */
+]]></content>
+    <tabTrigger>docblock:class</tabTrigger>
+</snippet>
