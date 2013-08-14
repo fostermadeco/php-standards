@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1}
+ *
+ * @var     boolean
+ */
+]]></content>
+    <tabTrigger>docblock:variable</tabTrigger>
+</snippet>

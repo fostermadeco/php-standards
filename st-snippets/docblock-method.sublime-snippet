@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1}
+ *
+ * @param   ${2:datatype}   ${3:name}    ${4:description}
+ * @return  ${5}
+ * @access  ${6}
+ */
+]]></content>
+    <tabTrigger>docblock:method</tabTrigger>
+</snippet>
