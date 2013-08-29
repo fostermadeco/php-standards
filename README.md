@@ -36,6 +36,7 @@ All standalone classes should be namespaced for better compatibility and packagi
 <a name="documentation-standards"/>
 ## Documentation Standards
 
+<a name="class-properties"/>
 ### Class Properties
 
 ```php
