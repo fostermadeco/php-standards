@@ -5,6 +5,7 @@
     * [Special Cases](#special-cases)
     * [Namespaces](#namespaces)
 * [Documentation Standards](#documentation-standards)
+    * [Class Property](#class-property)
 * [Useful Resources](#useful-resources)
 
 <a name="coding-standards"/>
@@ -35,7 +36,17 @@ All standalone classes should be namespaced for better compatibility and packagi
 <a name="documentation-standards"/>
 ## Documentation Standards
 
-@TODO
+### Class Properties
+
+```php
+	/**
+     * My awesome var does the following thing.
+     *
+     * @var     boolean
+     * @scope   protected
+     */
+   protected $my_awesome_var;
+```
 
 <a name="useful-resources"/>
 ## Useful Resources
