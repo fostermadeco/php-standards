@@ -6,6 +6,7 @@
     * [Namespaces](#namespaces)
 * [Documentation Standards](#documentation-standards)
     * [Class Property](#class-property)
+    * [Class Method](#class-method)
 * [Useful Resources](#useful-resources)
 
 <a name="coding-standards"/>
@@ -47,6 +48,21 @@ All standalone classes should be namespaced for better compatibility and packagi
      * @scope   protected
      */
    protected $my_awesome_var;
+```
+
+<a name="class-method"/>
+### Class Method
+
+```php
+    /**
+     *
+     *
+     * @param   string   $my_var    A concise description of my_var
+     * @return  boolean
+     * @access  public
+     * @static
+     */
+    public static function myMethod($my_var = 'hello world')
 ```
 
 <a name="useful-resources"/>
