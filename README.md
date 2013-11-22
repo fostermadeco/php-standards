@@ -5,6 +5,7 @@
     * [Special Cases](#special-cases)
     * [Namespaces](#namespaces)
 * [Documentation Standards](#documentation-standards)
+    * [Class Declaration](#class)
     * [Class Property](#class-property)
     * [Class Method](#class-method)
 * [Useful Resources](#useful-resources)
@@ -36,6 +37,29 @@ All standalone classes should be namespaced for better compatibility and packagi
 
 <a name="documentation-standards"/>
 ## Documentation Standards
+
+<a name="class"/>
+### Class Declaration
+
+```php
+    /**
+     * desc
+     *
+     * @author
+     * @copyright   (C) 2013. All rights reserved.
+     * @version     1.0
+     */
+
+    /**
+     * desc
+     *
+     * @category
+     * @package
+     * @subpackage
+     * @since       1.0
+     */
+   class MyClass
+```
 
 <a name="class-properties"/>
 ### Class Properties
