@@ -20,7 +20,8 @@ use Other/Awesome/OtherAwesomeForum;
  * @subpackage  Forum
  * @since       1.0
  */
-class Forum extends OtherAwesomeForum implements BasicForum {
+class Forum extends OtherAwesomeForum implements BasicForum
+{
 
     /**
      * Constructor
@@ -49,7 +50,7 @@ class Forum extends OtherAwesomeForum implements BasicForum {
      * @return  void
      * @access  protected
      */
-    protected function _specialCaseFunc()
+    protected function specialCaseFunc()
     {
     }
 
