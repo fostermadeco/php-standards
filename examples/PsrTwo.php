@@ -27,7 +27,6 @@ class Forum extends OtherAwesomeForum implements BasicForum
      * Constructor
      *
      * @return  void
-     * @access  public
      */
     public function __construct()
     {
@@ -38,7 +37,6 @@ class Forum extends OtherAwesomeForum implements BasicForum
      *
      * @param   boolean   $and_private    Get private forums as well.
      * @return  array
-     * @access  public
      */
     public function all($and_private = false)
     {
@@ -48,7 +46,6 @@ class Forum extends OtherAwesomeForum implements BasicForum
      * Protected method that does special stuff we want on its own.
      *
      * @return  void
-     * @access  protected
      */
     protected function specialCaseFunc()
     {
