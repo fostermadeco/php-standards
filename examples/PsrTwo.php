@@ -7,7 +7,7 @@ use Other/Awesome/OtherAwesomeForum;
 /**
  * Another awesome forum we can use for our l4 projects!
  *
- * @author      Visual Chefs <code@visualchefs.com>
+ * @author      Visual Chefs <hello@visualchefs.com>
  * @copyright   (C) 2013. All rights reserved.
  * @version     1.0
  */
