@@ -8,6 +8,7 @@
     * [Class Declaration](#class)
     * [Class Property](#class-property)
     * [Class Method](#class-method)
+* [Vetted Libraries/Packages](#vetted)
 * [Useful Resources](#useful-resources)
 
 <a name="coding-standards"/>
@@ -88,6 +89,14 @@ All standalone classes should be namespaced for better compatibility and packagi
      */
     public static function myMethod($my_var = 'hello world')
 ```
+
+<a name="vetted"/>
+## Vetted Libraries/Packages
+
+* [Guzzle](https://packagist.org/packages/guzzle/guzzle) is a PHP HTTP client
+& framework.
+* [Monolog](https://packagist.org/packages/monolog/monolog) sends your logs to files, sockets, inboxes, databases and various web services.
+* [Swiftmailer](https://packagist.org/packages/swiftmailer/swiftmailer) free feature-rich PHP mailer.
 
 <a name="useful-resources"/>
 ## Useful Resources
