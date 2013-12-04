@@ -104,5 +104,6 @@ All standalone classes should be namespaced for better compatibility and packagi
 * [PHP the Right Way](http://www.phptherightway.com/)
 * [net.tutsplus.com](http://net.tutsplus.com/?s=php)
 * [Laravel](http://laravel.com/)
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP)
 
 @TODO more to come
