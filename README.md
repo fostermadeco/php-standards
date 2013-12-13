@@ -93,10 +93,31 @@ All standalone classes should be namespaced for better compatibility and packagi
 <a name="vetted"/>
 ## Vetted Libraries/Packages
 
+### Auth
+
+* [Sentry](https://github.com/cartalyst/sentry) Full featured basic authentification.
+* [Sentry Social](https://cartalyst.com/manual/sentry-social) Social auth addon for Sentry.
+
+### Email
+
+* [Swiftmailer](https://packagist.org/packages/swiftmailer/swiftmailer) free feature-rich PHP mailer.
+
+### Geographic
+
+* [Geotools](https://github.com/php-loep/Geotools) comprehensive set of geographic tools.
+
+### HTTP
+
 * [Guzzle](https://packagist.org/packages/guzzle/guzzle) is a PHP HTTP client
 & framework.
+
+### Logging
+
 * [Monolog](https://packagist.org/packages/monolog/monolog) sends your logs to files, sockets, inboxes, databases and various web services.
-* [Swiftmailer](https://packagist.org/packages/swiftmailer/swiftmailer) free feature-rich PHP mailer.
+
+### Markdown
+
+* [Markdown for Laravel](https://github.com/vtalbot/markdown) Markdown library for Laravel 4.
 
 <a name="useful-resources"/>
 ## Useful Resources
