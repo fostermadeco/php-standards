@@ -98,6 +98,10 @@ All standalone classes should be namespaced for better compatibility and packagi
 * [Sentry](https://github.com/cartalyst/sentry) Full featured basic authentification.
 * [Sentry Social](https://cartalyst.com/manual/sentry-social) Social auth addon for Sentry.
 
+### Debugging
+
+* [DebugBar for Laravel](https://github.com/barryvdh/laravel-debugbar)
+
 ### Email
 
 * [Swiftmailer](https://packagist.org/packages/swiftmailer/swiftmailer) free feature-rich PHP mailer.
@@ -118,6 +122,11 @@ All standalone classes should be namespaced for better compatibility and packagi
 ### Markdown
 
 * [Markdown for Laravel](https://github.com/vtalbot/markdown) Markdown library for Laravel 4.
+
+### Templating
+
+* [Twig](http://twig.sensiolabs.org/)
+* [TwigBridge for Laravel](https://github.com/rcrowe/TwigBridge)
 
 <a name="useful-resources"/>
 ## Useful Resources
