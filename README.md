@@ -100,7 +100,7 @@ All standalone classes should be namespaced for better compatibility and packagi
 
 ### Debugging
 
-* [DebugBar for Laravel](https://github.com/barryvdh/laravel-debugbar)
+* [DebugBar for Laravel](https://github.com/barryvdh/laravel-debugbar) Helpful debug/profiling bar for Laravel 4.
 
 ### Email
 
@@ -125,8 +125,8 @@ All standalone classes should be namespaced for better compatibility and packagi
 
 ### Templating
 
-* [Twig](http://twig.sensiolabs.org/)
-* [TwigBridge for Laravel](https://github.com/rcrowe/TwigBridge)
+* [Twig](http://twig.sensiolabs.org/) the best templating engine for php.
+* [TwigBridge for Laravel](https://github.com/rcrowe/TwigBridge) bridge for Twig so it works with Laravel 4.
 
 <a name="useful-resources"/>
 ## Useful Resources
