@@ -24,7 +24,7 @@ In this repository you will find a `.editorconfig` file.  This helps standardize
 To use this file:
 
 1. put it in the root of your project.
-2. Get the plugin for your IDE: (editorconfig.org)[http://editorconfig.org/#download]
+2. Get the plugin for your IDE: [editorconfig.org](http://editorconfig.org/#download)
 
 <a name="special-cases"/>
 ### Special Cases
